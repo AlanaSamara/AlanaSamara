@@ -1,4 +1,4 @@
-![banners](https://user-images.githubusercontent.com/92688856/190687577-179d9a4b-5ca5-4ae3-a879-159239966833.gif)
+![banner-github](https://user-images.githubusercontent.com/92688856/190689296-bb0c37af-2967-46bc-82ec-b29c49081ff8.gif)
 
 <div align="center">
   <h2> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻 </h2>
