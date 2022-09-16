@@ -1,6 +1,10 @@
-## Olá! Eu sou a Alana 👋
+![banners](https://user-images.githubusercontent.com/92688856/190687577-179d9a4b-5ca5-4ae3-a879-159239966833.gif)
 
-- 🌱 Estou estudando HTML, CSS e JavaScript.
+<div align="center">
+  <h2> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻 </h2>
+</div>
+
+- 📚 Estou estudando HTML, CSS e JavaScript.
 - 📫 Contate-me no email: alana.samara.br@gmail.com 
 - 😄 Pronomes: ela/dela
 <div align="center">
