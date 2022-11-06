@@ -1,5 +1,5 @@
-<div align="center">
-  <h2> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻 </h2>
+<div align="justify">
+  <h1> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻 </h1>
 </div>
 
 - 📚 Estou estudando HTML, CSS e JavaScript.
