@@ -1,5 +1,3 @@
-![banner-github](https://user-images.githubusercontent.com/92688856/190689296-bb0c37af-2967-46bc-82ec-b29c49081ff8.gif)
-
 <div align="center">
   <h2> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻 </h2>
 </div>
