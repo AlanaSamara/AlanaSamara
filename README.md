@@ -2,7 +2,7 @@
 
 
 <div align="justify">
-  <h3> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻... </h3>
+  <h3> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻 </h3>
 </div>
 
 - 📚 Estudando HTML5, CSS3 e JavaScript.
