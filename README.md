@@ -1,14 +1,17 @@
+<h1> Olá!! Euu sou a Alana. </h1>
+
+
 <div align="justify">
-  <h1> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻 </h1>
+  <h3> Estou cursando o 7º período de engenharia mecatrônica 🤖 e adorando estudar programação 💻... </h3>
 </div>
 
-- 📚 Estou estudando HTML, CSS e JavaScript.
+- 📚 Estudando HTML5, CSS3 e JavaScript.
 - 📫 Contate-me no email: alana.samara.br@gmail.com 
 - 😄 Pronomes: ela/dela
 <div align="center">
   <a href="https://github.com/AlanaSamara">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlanaSamara&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaSamara&layout=compact&langs_count=7&theme=gruvbox"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=AlanaSamara&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanaSamara&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
 <div style="display: inline_block"><br>
